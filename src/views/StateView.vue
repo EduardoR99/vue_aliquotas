@@ -1,12 +1,16 @@
 <script setup>
-
+  import State from '../components/State.vue'
 </script>
 
 <template>
   <main>
-   <img src="../assets/images/states/BR-AP.svg" alt="">
+    <State/>
+   
   </main>
 </template>
 <style>
-
+main{
+  padding: 0;
+  margin: auto;
+}
 </style>

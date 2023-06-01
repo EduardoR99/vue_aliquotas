@@ -25,6 +25,7 @@ a{
 }
 .navbar_container{
   background-color: #fff;
+  
 }
 #navbar {
   display: flex;
@@ -47,6 +48,7 @@ nav {
 
 #logo img {
   margin-left: 1rem;
+  margin: 0;
   width: 115px;
   height: 2rem;
 }
